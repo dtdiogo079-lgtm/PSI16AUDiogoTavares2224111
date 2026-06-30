@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|c:\\users\\2224111\\source\\repos\\psi1624au_diogotavares_2224111\\src\\taskkquest\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formminijogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formminijogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formregisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formregisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formminijogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formminijogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\taskkquest\\formregisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{947BCD3D-9B4D-4E41-A7D3-E07DCF9711C4}|TaskkQuest\\TaskkQuest.csproj|solutionrelative:taskkquest\\formregisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormMemoria.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormMemoria.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormMemoria.cs",
+              "RelativeToolTip": "TaskkQuest\\FormMemoria.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:40:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\DataBase.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\DataBase.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\DataBase.cs",
+              "RelativeToolTip": "TaskkQuest\\DataBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:23:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCalendario.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormCalendario.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormCalendario.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormCalendario.cs",
+              "RelativeToolTip": "TaskkQuest\\FormCalendario.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:51:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormPrincipal.cs",
+              "RelativeToolTip": "TaskkQuest\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:45:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\DatabaseHelper.cs",
+              "RelativeToolTip": "TaskkQuest\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:43:35.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMinijogos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormMinijogos.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormMinijogos.cs",
+              "ToolTip": "C:\\Users\\2224111\\OneDrive - Escola Digital\\TaskkQuest\\TaskkQuest\\FormMinijogos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Escola Digital\\TaskkQuest\\TaskkQuest\\FormMinijogos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:44:43.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormQuiz.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormQuiz.cs [Design]",
+              "RelativeToolTip": "TaskkQuest\\FormQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T15:53:46.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormTarefas.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormTarefas.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormTarefas.cs",
+              "RelativeToolTip": "TaskkQuest\\FormTarefas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:30:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\Form1.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\Form1.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\Form1.cs",
+              "RelativeToolTip": "TaskkQuest\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:51:59.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMinijogos.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormMinijogos.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormMinijogos.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormMinijogos.cs",
+              "RelativeToolTip": "TaskkQuest\\FormMinijogos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:20:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRegisto.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormRegisto.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormRegisto.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormRegisto.cs",
+              "RelativeToolTip": "TaskkQuest\\FormRegisto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T12:20:49.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormQuiz.cs",
+              "ToolTip": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormQuiz.cs",
+              "RelativeToolTip": "TaskkQuest\\FormQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:03:14.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRegisto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2224111\\source\\repos\\PSI1624AU_DiogoTavares_2224111\\src\\TaskkQuest\\FormRegisto.cs",
+              "RelativeDocumentMoniker": "TaskkQuest\\FormRegisto.cs",
+              "ToolTip": "C:\\Users\\2224111\\OneDrive - Escola Digital\\TaskkQuest\\TaskkQuest\\FormRegisto.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive - Escola Digital\\TaskkQuest\\TaskkQuest\\FormRegisto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:31:19.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
